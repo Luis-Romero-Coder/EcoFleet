@@ -12,5 +12,5 @@ public interface Vehicle {
     String getType(); 
     void accelerate(int kmh);
     void curb();
-    double calculateCost(double kmElepsed);
+    double calculateCost(double kmElapsed);
 }
