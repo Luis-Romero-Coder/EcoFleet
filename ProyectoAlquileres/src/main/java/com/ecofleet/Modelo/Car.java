@@ -47,7 +47,7 @@ public class Car implements Vehicle{
         return baseRate + byKm * kmElapsed;
     }
     
-    
+    //Setters y Getters
     public int getId(){
         return id;
     }
